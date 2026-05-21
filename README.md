@@ -9,7 +9,9 @@ El contenido, nombres, referencias y mecánicas presentes deben interpretarse de
 Algunas bromas o referencias pueden incluir humor absurdo, memes o chistes internos entre amigos, sin intención de ofender o atacar a ningún grupo o persona.
 
 El proyecto es compatible con los idiomas Español (Argentina) y Español (México) dentro del juego.
-Debería funcionar correctamente en otros idiomas, aunque no fue diseñado específicamente para ellos, por lo que pueden existir algunas inconsistencias o textos sin adaptar.
+Otros idiomas deberían funcionar correctamente, aunque pueden existir inconsistencias en textos, referencias o traducciones sin adaptar.
+
+Actualmente no hay planes de mantener el proyecto activamente, corregir errores, añadir nuevos idiomas ni actualizarlo a futuras versiones, aunque podrían realizarse cambios o actualizaciones ocasionales.
 
 ## Uso y distribución
 
